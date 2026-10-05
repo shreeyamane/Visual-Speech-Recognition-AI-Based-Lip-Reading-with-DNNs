@@ -59,6 +59,10 @@ The following Python packages required to run the scripts can be found in ```req
 
 Input Video → Preprocessing → 3D CNN → Bi-GRU → CTC Decoder → Text Output
 
+## 🎥 Demo
+
+[Watch the Visual Speech Recognition Demo](./demo/lip-reading-demo.mp4)
+
 
 ## ⚠️ Note
 

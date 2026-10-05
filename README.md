@@ -9,6 +9,10 @@ This project builds a visual speech recognition (VSR) system that interprets spe
 - Enable real-time, speaker-independent lip-reading.
 - Ensure generalization to various speakers and environmental conditions.
 
+## 🎥 Demo
+
+[Watch the Visual Speech Recognition Demo](./demo/lip-reading-demo.mp4)
+
 ## Training Data
 
 You can view the data in the ```/collected_data/``` folder.
@@ -59,9 +63,6 @@ The following Python packages required to run the scripts can be found in ```req
 
 Input Video → Preprocessing → 3D CNN → Bi-GRU → CTC Decoder → Text Output
 
-## 🎥 Demo
-
-[Watch the Visual Speech Recognition Demo](./demo/lip-reading-demo.mp4)
 
 
 ## ⚠️ Note
